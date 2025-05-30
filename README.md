@@ -14,7 +14,7 @@ Based on the project's statement, create a PDF file containing the technical des
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-##The new pdsf file is teamproject_pp_modif 
+## The new pdsf file is teamproject_pp_modif 
 <br>
 This is our team's project (formed by Pușa Gabriel and Tănase Vlad).
 Link to code repository: https://github.com/tanasevladmihai/Cpp_teamproject
